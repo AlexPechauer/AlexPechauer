@@ -1,4 +1,4 @@
-Hello there. I'm Alex Pechauer, an academic researcher turned software developer with a focus and interest in financial applications. Professionally, I’m a back end developer, working in C#, SQL, and Mongo. On the side I like to write small programs and web apps in Python.
+Hello there. I'm Alex Pechauer, an academic researcher turned software developer with a focus and interest in financial applications. Professionally, I’m a backend developer, working in C#, SQL, and Mongo. On the side I like to write small programs and web apps in Python.
 
 I love this stuff! Let me know if you want to collaborate.
 
