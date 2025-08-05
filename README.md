@@ -1,5 +1,5 @@
 E: apechauer@gmail.com
-W: pechauerplace.com
+W: [pechauerplace.com](https://pechauerplace.com)
 
 <!---
 AlexPechauer/AlexPechauer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
