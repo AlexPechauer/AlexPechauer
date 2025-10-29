@@ -1,4 +1,3 @@
-E: apechauer@gmail.com
 W: [pechauerplace.com](https://pechauerplace.com)
 
 <!---
